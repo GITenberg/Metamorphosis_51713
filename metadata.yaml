@@ -1,5 +1,8 @@
 _repo: Metamorphosis_51713
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51713-h/images/cover.jpg
 creator:
   author:
     agent_name: De Vet, Charles V. (Charles Vincent)
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '32106'
     url: http://www.gutenberg.org/2009/agents/32106
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51713#Metamorphosis
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-04-09'
 gutenberg_type: Text
